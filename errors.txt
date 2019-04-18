@@ -1,0 +1,6 @@
+Error Log:
+
+MX1291 is invalid - Duplicate numbers detected.
+DD7102 is invalid - Duplicate letters detected.
+ID: ZT4231- no name found. 33.25 C-
+WG7875 is invalid - Duplicate numbers detected.
